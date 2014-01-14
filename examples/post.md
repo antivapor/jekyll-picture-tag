@@ -1,6 +1,6 @@
 ---
 layout: post
-title: title: Tag examples
+title: Tag examples
 ---
 
 {% picture portrait.jpg alt="An unsual picture" %}
